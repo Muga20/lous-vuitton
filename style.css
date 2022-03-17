@@ -14,5 +14,17 @@ ul li{
    font-weight:bold ;
 }
 
+/*world page css below !*/
+
+.world-h1{
+    text-align: center;
+}
+.world-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
 
 
