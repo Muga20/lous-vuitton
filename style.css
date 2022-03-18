@@ -47,6 +47,9 @@ nav a {
     margin-right: auto;
     width: 54%;
   }
+.small-align{
+    display: flex;
+}
 .footer-container{
         text-align: center;
         padding: 3px;
