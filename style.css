@@ -105,8 +105,12 @@ nav a {
     margin-right: auto;
     width: 54%;
   }
-.small-align{
+
+.inline-text ul{
+    text-decoration: none;
+    font-size: xx-small;
     display: flex;
+    margin-left: 55em
 }
 .footer-container{
         text-align: center;
