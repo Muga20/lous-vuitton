@@ -1,0 +1,140 @@
+.header-one{
+    text-align: center;
+    margin-top:0;
+    margin-bottom: 0;
+    margin-left: 0.5em ;
+    padding: 0;
+    border-top: 10px;
+}
+nav ul{
+    text-decoration: none;
+    display: flex;
+    margin-left: 27em;
+}
+ul li{
+    list-style-type: none;
+    padding: 15px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight:bold ;
+}
+.spring-div-one{
+    font-weight: bold;
+    padding: 15px;
+}
+.spring-one{
+    border: 1px solid rgb(210, 200, 200);
+    border-left: 1px;
+    
+    display: inline-flex;
+    height: 80px;
+    
+}
+.spring-div-two{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 945px;
+}
+h3{
+padding-left: 770px;
+font-weight: lighter;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+padding-top: 21px;
+}
+.spring-div-three{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 195px;   
+}
+
+
+.spring-div-six{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 190px;
+}
+
+h5{
+padding-left:50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 18px;
+padding-top: -1px;
+}
+.spring-hr{
+    border: 1px solid rgb(210, 200, 200);
+    width: 100%;
+
+}
+.spring-image{
+    display: flex;
+    padding-top: 50px;
+    
+}
+.spring-image-image{
+    width: 800PX;
+    height: 410px;
+}
+
+.spring-image-one {
+    padding: 15px;
+    padding-right: 5px;
+    
+}
+
+/*world page css below !*/
+
+.world-h1{
+    position: static;
+    margin-top: 1px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0.1px;
+}
+#world-heading{
+ text-decoration: none;
+ font-weight: bolder;
+}
+
+#nav-a {
+    color: rgb(7, 4, 4);
+    text-decoration: none;
+    font-size:xx-small;
+    margin-left: 15em;
+}
+.world-img{
+    display: block;
+    margin-top: 0.5px;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 54%;
+  }
+
+.inline-text ul{
+    text-decoration: none;
+    font-size: xx-small;
+    display: flex;
+    margin-left: 45em;
+    
+}
+.footer-container{
+        text-align: center;
+        padding: 3px;
+        background-color: #fff;
+        color: black;
+}
+.fp1{
+    text-decoration: none;
+    font-size: xx-small;
+
+}
+.fp2{
+    text-decoration: solid;
+    font-weight: bolder;
+}
+#world-links a{
+     color: black;
+
+}
+
+
