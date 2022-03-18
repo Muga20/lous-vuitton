@@ -1,3 +1,4 @@
+
 .header-one{
     text-align: center;
     margin-top:15px;
@@ -12,6 +13,69 @@ ul li{
     padding: 15px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-weight:bold ;
+}
+.spring-div-one{
+    font-weight: bold;
+    padding: 15px;
+}
+.spring-one{
+    border: 1px solid rgb(210, 200, 200);
+    border-left: 1px;
+    
+    display: inline-flex;
+    height: 80px;
+    
+}
+.spring-div-two{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 945px;
+}
+h3{
+padding-left: 770px;
+font-weight: lighter;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+padding-top: 21px;
+}
+.spring-div-three{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 195px;   
+}
+
+
+.spring-div-six{
+    border: 1px solid rgb(210, 200, 200);
+    height:80px;
+    width: 190px;
+}
+
+h5{
+padding-left:50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 18px;
+padding-top: -1px;
+}
+.spring-hr{
+    border: 1px solid rgb(210, 200, 200);
+    width: 100%;
+
+}
+.spring-image{
+    display: flex;
+    padding-top: 50px;
+    
+}
+.spring-image-image{
+    width: 800PX;
+    height: 410px;
+}
+
+.spring-image-one {
+    padding: 15px;
+    padding-right: 5px;
+    
 }
 
 
