@@ -85,22 +85,26 @@ padding-top: -1px;
 
 .world-h1{
     position: static;
-    padding-top: 50px;
-    border: 3px solid #73AD21;
-    margin-bottom: 0px;
+    margin-top: 1px;
     text-decoration: none;
     text-align: center;
     font-weight: bold;
+    margin-bottom: 0.1px;
+}
+#world-heading{
+ text-decoration: none;
+ font-weight: bolder;
 }
 
-nav a {
+#nav-a {
     color: rgb(7, 4, 4);
     text-decoration: none;
     font-size:xx-small;
+    margin-left: 15em;
 }
 .world-img{
     display: block;
-    margin-top: 48px;
+    margin-top: 0.5px;
     margin-left: 25%;
     margin-right: auto;
     width: 54%;
@@ -110,14 +114,27 @@ nav a {
     text-decoration: none;
     font-size: xx-small;
     display: flex;
-    margin-left: 55em
+    margin-left: 45em;
+    
 }
 .footer-container{
         text-align: center;
         padding: 3px;
-        background-color: #fff
-        color: white;
+        background-color: #fff;
+        color: black;
 }
+.fp1{
+    text-decoration: none;
+    font-size: xx-small;
 
+}
+.fp2{
+    text-decoration: solid;
+    font-weight: bolder;
+}
+#world-links a{
+     color: black;
+
+}
 
 
