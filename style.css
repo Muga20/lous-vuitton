@@ -1,4 +1,4 @@
-.header-one{
+.spring-header-one{
     text-align: center;
     margin-top:0;
     margin-bottom: 0;
@@ -6,12 +6,12 @@
     padding: 0;
     border-top: 10px;
 }
-nav ul{
+.spring-list-ul{
     text-decoration: none;
     display: flex;
-    margin-left: 27em;
+    margin-left: 21em;
 }
-ul li{
+.spring-list-li{
     list-style-type: none;
     padding: 5px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -80,13 +80,17 @@ nav a {
     margin-right: auto;
     width: 54%;
   }
-.small-align{
+
+.inline-text ul{
+    text-decoration: none;
+    font-size: xx-small;
     display: flex;
+    margin-left: 55em
 }
 .footer-container{
         text-align: center;
         padding: 3px;
-        background-color: #fff
+        background-color: #fff;
         color: white;
 }
 
